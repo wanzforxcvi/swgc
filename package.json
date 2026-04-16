@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "telegraf": "^4.16.3",
-    "@whiskeysockets/baileys": "github:kiuur/baileys-esm",
+    "@whiskeysockets/baileys": "github:kiuur/baileys",
     "axios": "^1.6.8",
     "chalk": "^4.1.2",
     "fs-extra": "^11.2.0",
